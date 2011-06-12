@@ -1,0 +1,9 @@
+#canvas tr td {
+	border: solid 1px #333;
+	width: 15px;
+	height: 15px;
+}
+
+.selected-cell {
+	background-color: #e58f21;
+}
